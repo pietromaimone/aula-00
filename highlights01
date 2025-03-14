@@ -6,14 +6,14 @@
   </head>  
   <body> 
     <header>
-        <h1>hihgligts by maiSpy</h1>
+        <h1>hihglights by maiSpy</h1>
     </header>
 <nav>
      <ul>
        <li><a href="#cs:go">cs:go</a></li>
        <li><a href="#valorant">valorant</a></li>
        <li><a href="#rainbow six">rainbow six</a></li>
-       <li><a href="#fortinite">fortinite</a></li>
+       <li><a href="#fortnite">fortinite</a></li>
        <li><a href="#minecraft">minecraft</a></li>
        </ul>
 </nav>
@@ -45,10 +45,10 @@
         </article>
     </section>
 
-<section id="fortinite">
+<section id="fortnite">
         <article>
 
-            <h2>fortinite</h2>
+            <h2>fortnite</h2>
             <p>esse aqui e a decadencia</p>
 
         </article>
@@ -63,8 +63,19 @@
         </article>
 </section>
 
+</main>
+
+<aside>
+
+    <a  href="https://www.youtube.com/@pietromaimonedealmeida4784">canal de origrm dos clipes</a>
+
+</aside>
+
 <p>fazer uma lista com as qualidades e desavantagem ou a minha opiniao sobre</p>
 
+<footer>
+    <p>&copy; 2024 hihglithgs. Todos os direitos reservados.</p>
+</footer>
 
   </body>
 </html>      
