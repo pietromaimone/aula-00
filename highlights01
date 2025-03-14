@@ -3,32 +3,67 @@
   <head>
     <meta charset="UTF-8">
     <title>the best plays</title>
-  </head>
-  <body>
+  </head>  
+  <body> 
+    <header>
+        <h1>hihgligts by maiSpy</h1>
+    </header>
+<nav>
+     <ul>
+       <li><a href="#cs:go">cs:go</a></li>
+       <li><a href="#valorant">valorant</a></li>
+       <li><a href="#rainbow six">rainbow six</a></li>
+       <li><a href="#fortinite">fortinite</a></li>
+       <li><a href="#minecraft">minecraft</a></li>
+       </ul>
+</nav>
+<main>
+    <section id="cs:go">
+        <article>
 
-    <h1>hihgligths</h1>
-    <p>uma breve apresentacao das minhas jogadas</p>
+            <h2>cg:go</h2>
+            <p>o jogo que ja foi bom um dia<p>
 
-    <h2>cg:go</h2>
-    <p>o jogo que ja foi bom um dia</p>
-   
-    <h2>valorant</h2>
-    <p>aonde quem nao consegue jogar cs vai parar</p>
-   
-    <h2>rainbow six</h2>
-    <p>real fps tatico</p>
+            </article>
+        </section>
 
-    <h2>fortinite</h2>
-    <p>esse aqui e a decadencia</p>
+    <section id="valorant">
+        <article>
 
+            <h2>valorant</h2>
+            <p>aonde quem nao consegue jogar cs vai parar</p>
 
+        </article>
+    </section>
 
-    <h2>minecraft</h2>
-    <p>redencao</p>
+    <section id="rainbow six">
+        <article>
 
+             <h2>rainbow six</h2>
+             <p>real fps tatico</p>
 
+        </article>
+    </section>
 
-    <p>fazer uma lista com as qualidades e desavantagem ou a minha opiniao sobre</p>
+<section id="fortinite">
+        <article>
+
+            <h2>fortinite</h2>
+            <p>esse aqui e a decadencia</p>
+
+        </article>
+</section>
+
+<section id="minecraft">
+        <article> 
+
+        <h2>minecraft</h2>
+        <p>redencao</p>
+
+        </article>
+</section>
+
+<p>fazer uma lista com as qualidades e desavantagem ou a minha opiniao sobre</p>
 
 
   </body>
