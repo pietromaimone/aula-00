@@ -10,11 +10,10 @@
     </header>
 <nav>
      <ul>
-       <li><a href="#cs:go">cs:go</a></li>
-       <li><a href="#valorant">valorant</a></li>
-       <li><a href="#rainbow six">rainbow six</a></li>
-       <li><a href="#fortnite">fortinite</a></li>
-       <li><a href="#minecraft">minecraft</a></li>
+       <li><a href="cs.html">cs:go</a></li>
+       <li><a href="valorant.html">valorant</a></li>
+       <li><a href="rainbowsix.html">rainbow six</a></li>
+       <li><a href="minecraft.html">minecraft</a></li>
        </ul>
 </nav>
 <main>
@@ -24,10 +23,6 @@
             <h2>cg:go</h2>
             <p>o jogo que ja foi bom um dia<p>
 
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/xiVRXsHd0PQ?si=EfFI-FlB2x1jZEF_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-                </iframe>
-
             </article>
         </section>
 
@@ -36,8 +31,6 @@
 
             <h2>valorant</h2>
             <p>aonde quem nao consegue jogar cs vai parar</p>
-
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/FIq8sn2Byd8?si=zMyCfAdmTJxtvey5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         </article>
     </section>
@@ -51,36 +44,30 @@
         </article>
     </section>
 
-<section id="fortnite">
-        <article>
-
-            <h2>fortnite</h2>
-            <p>esse aqui e a decadencia</p>
-
-        </article>
-</section>
-
-<section id="minecraft">
+    <section id="minecraft">
         <article> 
 
         <h2>minecraft</h2>
         <p>redencao</p>
 
         </article>
-</section>
+    </section>
+
+    <section>
+        <article>
+        </article>
+    </section>
 
 </main>
 
 <aside>
 
-    <a  href="https://www.youtube.com/@pietromaimonedealmeida4784">canal de origrm dos clipes</a>
+    <a  href="https://www.youtube.com/@pietromaimonedealmeida4784">se inscreva no canal!</a>
 
 </aside>
 
-<p>fazer uma lista com as qualidades e desavantagem ou a minha opiniao sobre</p>
-
 <footer>
-    <p>&copy; 2024 hihglithgs. Todos os direitos reservados.</p>
+    <p>&copy; 2025 hihglithgs. Todos os direitos reservados.</p>
 </footer>
 
   </body>
